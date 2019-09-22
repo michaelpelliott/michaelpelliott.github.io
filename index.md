@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Michael Elliott's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/michaelpelliott/michaelpelliott.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a physics major with a minor in computer science and am interested in data science, sports, and simulations.
 
 ### Markdown
 
