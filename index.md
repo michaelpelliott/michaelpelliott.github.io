@@ -1,5 +1,11 @@
-### Spring 2020 Graduate
+# Welcome to Michael Elliott's GitHub page!
 
-I graduated Boise State University with a Bachelor's degree in Astrophysics and minors in Computer Science and Computational Science and Engineering. 
+## About Me
 
-My github page is a showcase of projects that I have completed as well as projects that are still in progress.
+I graduated Boise State University with a Bachelor's degree in Astrophysics and minors in Computer Science and Computational Science and Engineering in the Spring of 2020. 
+
+I am currently seeking employment. In the meantime I am staying busy by doing astrophysics research with a former professor at BSU.
+
+I have a passion for learning and problem solving and I hope that I can utilize that in my career.
+
+I use my GitHub page as a showcase of projects that I have completed as well as projects that are still in progress.
