@@ -1,4 +1,3 @@
-# Welcome to Michael Elliott's GitHub page!
 
 ## About Me
 
