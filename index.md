@@ -9,12 +9,12 @@ I have a passion for learning and problem solving and I hope that I can utilize 
 
 I use my GitHub page as a showcase of projects that I have completed as well as projects that are still in progress.
 
-### Links to Projects By Language
+### Links To Projects
 
 [A Reaction/Diffusion simulation using Python, C, and MPI for parallelization](https://github.com/michaelpelliott/Reaction-Diffusion)
 
-[A Java and SQL based Concession Stand Inventory tool](https://github.com/michaelpelliott/MySQL-ConcessionStand)
+[A Java and SQL based Concession Stand Inventory Tool](https://github.com/michaelpelliott/MySQL-ConcessionStand)
 
 [A Java based DNA Gene Bank file parser and BTree builder as well as an accompanying searcher](https://github.com/michaelpelliott/Gene-Bank-Create-BTree-and-Search)
 
-[To see my whole repository](https://github.com/michaelpelliott)
+[To See My Whole Repository](https://github.com/michaelpelliott)
