@@ -9,7 +9,7 @@ I have a passion for learning and problem solving and I hope that I can utilize 
 
 I use my GitHub page as a showcase of projects that I have completed as well as projects that are still in progress.
 
-### Links To Projects
+## Links To Projects
 
 [A Reaction/Diffusion simulation using Python, C, and MPI for parallelization](https://github.com/michaelpelliott/Reaction-Diffusion)
 
