@@ -3,7 +3,7 @@
 
 I graduated Boise State University with a Bachelor's degree in Astrophysics and minors in Computer Science and Computational Science and Engineering in the Spring of 2020. 
 
-I am currently seeking employment. In the meantime I am staying busy by doing astrophysics research with a former professor at BSU.
+I am currently seeking employment. In the meantime I am staying busy by doing astrophysics research with one of my former professors at BSU.
 
 I have a passion for learning and problem solving and I hope that I can utilize that in my career.
 
